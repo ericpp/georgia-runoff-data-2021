@@ -55,7 +55,9 @@ while [ 1 ]; do
 	fi
 
 	git add -A
-	git commit --author "Automated Script <run@localhost>" -m "Updated $tstamp UTC"
+	updated=$(git diff --name-only --cached)
+
+	git commit --author "Automated Script <run@localhost>" -m "Updated: $updated"
 	git push origin master
 
 	echo "Sleeping..."
