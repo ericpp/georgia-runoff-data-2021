@@ -55,7 +55,7 @@ while [ 1 ]; do
 	fi
 
 	git add -A
-	updated=$(git diff --name-only --cached | tr -s '\n' ' ')
+	updated=$(git diff --name-only --cached | tr -s '\n' ', ')
 
 	git commit --author "Automated Script <run@localhost>" -m "Updated: $updated"
 	git push origin master
