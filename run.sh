@@ -53,8 +53,8 @@ while [ 1 ]; do
 	fi
 
 	git add -A
-	git commit --author "Automated Script <run@localhost>" -m "Updated $tstamp"
-	#git push origin master
+	git commit --author "Automated Script <run@localhost>" -m "Updated $tstamp UTC"
+	git push origin master
 
 	echo "Sleeping..."
 	sleep 30
