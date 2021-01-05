@@ -52,8 +52,9 @@ while [ 1 ]; do
 		addgaversion "$gaversion"
 	fi
 
-	git commit -a --author "Automated Script <run@localhost>" -m "Updated $tstamp"
-	git push origin master
+	git add -A
+	git commit --author "Automated Script <run@localhost>" -m "Updated $tstamp"
+	#git push origin master
 
 	echo "Sleeping..."
 	sleep 30
