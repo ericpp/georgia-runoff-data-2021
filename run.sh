@@ -21,7 +21,7 @@ download() {
 
 	filename=$(basename "$url")
 
-	curl --connect-timeout 10 -m 10 -s -o "./$prefix/$filename" "$url"
+	curl --compressed --connect-timeout 10 -m 10 -s -o "./$prefix/$filename" "$url"
 }
 
 while [ 1 ]; do
