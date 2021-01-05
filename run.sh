@@ -27,6 +27,8 @@ download() {
 while [ 1 ]; do
 	tstamp=$(date +%Y-%m-%d_%H:%M:%S.%N)
 
+	echo "Pulling in results: $tstamp"
+
 	download "AP" "https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json"
 	download "AP" "https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json"
 	download "AP" "https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json"
