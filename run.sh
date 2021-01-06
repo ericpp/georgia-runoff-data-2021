@@ -41,8 +41,6 @@ while [ 1 ]; do
 
 	gaversion=$(getgaversion)
 
-	echo "$gaversion"
-
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/ALL.json"
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Election_Day_Votes.json"
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Absentee_by_Mail_Votes.json"
