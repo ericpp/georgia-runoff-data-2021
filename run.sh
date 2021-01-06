@@ -5,12 +5,10 @@ getgaversion() {
 	exists=$(grep "$newversion" GA/versions)
 
 	if [ -z "$exists" ]; then
-		echo "$newversion"
+		echo "$1" >> GA/versions
 	fi
-}
 
-addgaversion() {
-	echo "$1" >> GA/versions
+	echo "$newversion"
 }
 
 download() {
@@ -43,17 +41,13 @@ while [ 1 ]; do
 
 	gaversion=$(getgaversion)
 
-	if [ ! -z "$gaversion" ]; then
-		echo "$gaversion"
+	echo "$gaversion"
 
-		download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/ALL.json"
-		download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Election_Day_Votes.json"
-		download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Absentee_by_Mail_Votes.json"
-		download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Advanced_Voting_Votes.json"
-		download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Provisional_Votes.json"
-
-		addgaversion "$gaversion"
-	fi
+	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/ALL.json"
+	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Election_Day_Votes.json"
+	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Absentee_by_Mail_Votes.json"
+	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Advanced_Voting_Votes.json"
+	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Provisional_Votes.json"
 
 	git add -A
 	updated=$(git diff --name-only --cached | xargs)
