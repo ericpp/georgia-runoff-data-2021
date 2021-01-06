@@ -28,11 +28,15 @@ while [ 1 ]; do
 
 	echo "Pulling in results: $tstamp"
 
+	# Media outlets
+
 	while read -r source url; do
 	        if [ ! -z "$source" -a ! -z "$url" ]; then
 	                download "$source" "$url"
 	        fi
 	done < urls.txt
+
+	# GA SOS data
 
 	gaversion=$(getgaversion)
 
@@ -42,6 +46,7 @@ while [ 1 ]; do
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Advanced_Voting_Votes.json"
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Provisional_Votes.json"
 
+	# Use diff to find differences and push to github
 	git add -A
 	updated=$(git diff --name-only --cached | xargs)
 
