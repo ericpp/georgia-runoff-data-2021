@@ -1,4 +1,4 @@
-Pulling in results: 2021-01-06_18:58:05.039548321
+Pulling in results: 2021-01-06_18:58:11.512231913
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
@@ -23,10 +23,10 @@ https://www.wsav.com/wp-json/election-hub/v1/widget/592031?_locale=user
 https://www.politico.com/2020-statewide-results/2021-01-05/13/sen.json
 https://www.politico.com/2020-statewide-results/2021-01-05/13/senSpecial.json
 https://www.politico.com/2020-statewide-results/2021-01-05/13/senSpecial-counties.json
-https://results.enr.clarityelections.com//GA/107556/274608/json/ALL.json
-https://results.enr.clarityelections.com//GA/107556/274608/json/Election_Day_Votes.json
-https://results.enr.clarityelections.com//GA/107556/274608/json/Absentee_by_Mail_Votes.json
-https://results.enr.clarityelections.com//GA/107556/274608/json/Advanced_Voting_Votes.json
-https://results.enr.clarityelections.com//GA/107556/274608/json/Provisional_Votes.json
-NBC/georgia-senate-runoff-results?format=json
+https://results.enr.clarityelections.com//GA/107556/274609/json/ALL.json
+https://results.enr.clarityelections.com//GA/107556/274609/json/Election_Day_Votes.json
+https://results.enr.clarityelections.com//GA/107556/274609/json/Absentee_by_Mail_Votes.json
+https://results.enr.clarityelections.com//GA/107556/274609/json/Advanced_Voting_Votes.json
+https://results.enr.clarityelections.com//GA/107556/274609/json/Provisional_Votes.json
+GA/versions
 log.txt
