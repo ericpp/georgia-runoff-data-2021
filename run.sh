@@ -47,6 +47,9 @@ while [ 1 ]; do
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Advanced_Voting_Votes.json"
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Provisional_Votes.json"
 
+	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/summary.json"
+	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/state-page/georgia.json"
+
 	git add -A
 	updated=$(git diff --name-only --cached | xargs)
 
