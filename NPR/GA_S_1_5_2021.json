@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609903850567,
+          "updated": 1609903911380,
           "precincts": 2656,
           "reporting": 2024,
           "reportingPercentage": 76.2,
           "eevp": 87,
           "winners": [],
-          "total": 3807329,
+          "total": 3807605,
           "candidates": [
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 1945779,
+              "votes": 1945831,
               "incumbent": true,
-              "percentage": 51.11
+              "percentage": 51.1
             },
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 1861550,
-              "percentage": 48.89
+              "votes": 1861774,
+              "percentage": 48.9
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609903850567,
+          "updated": 1609903911380,
           "precincts": 2656,
           "reporting": 2024,
           "reportingPercentage": 76.2,
           "eevp": 87,
           "winners": [],
-          "total": 3807211,
+          "total": 3807487,
           "candidates": [
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 1960922,
+              "votes": 1960973,
               "incumbent": true,
-              "percentage": 51.51
+              "percentage": 51.5
             },
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 1846289,
-              "percentage": 48.49
+              "votes": 1846514,
+              "percentage": 48.5
             }
           ]
         }
