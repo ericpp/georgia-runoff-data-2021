@@ -28,16 +28,11 @@ while [ 1 ]; do
 
 	echo "Pulling in results: $tstamp"
 
-	download "AP" "https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json"
-	download "AP" "https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json"
-	download "AP" "https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json"
-
-	download "NPR" "https://apps.npr.org/elections20-primaries/data/GA_S_1_5_2021.json"
-
-	download "NBC" "https://www.nbcnews.com/politics/2020-special-elections/georgia-senate-runoff-results?format=json"
-
-	download "Bloomberg" "https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/results.tsv"
-	download "Bloomberg" "https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/county/GA-results.tsv"
+	while read -r source url; do
+	        if [ ! -z "$source" -a ! -z "$url" ]; then
+	                download "$source" "$url"
+	        fi
+	done < urls.txt
 
 	gaversion=$(getgaversion)
 
@@ -46,12 +41,6 @@ while [ 1 ]; do
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Absentee_by_Mail_Votes.json"
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Advanced_Voting_Votes.json"
 	download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Provisional_Votes.json"
-
-	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/summary.json"
-	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/state-page/georgia.json"
-	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/general-model-overview-page/georgia/senate.json"
-	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/GA-S-S-2021-01-05.json"
-	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/race-page/georgia/senate/0/special.json"
 
 	git add -A
 	updated=$(git diff --name-only --cached | xargs)
