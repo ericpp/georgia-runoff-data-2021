@@ -2,12 +2,7 @@
 
 getgaversion() {
 	newversion=$(curl -s https://results.enr.clarityelections.com//GA/107556/current_ver.txt)
-	exists=$(grep "$newversion" GA/versions)
-
-	if [ -z "$exists" ]; then
-		echo "$newversion" >> GA/versions
-	fi
-
+	echo "$newversion" > GA/versions
 	echo "$newversion"
 }
 
