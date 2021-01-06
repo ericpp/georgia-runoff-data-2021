@@ -10,36 +10,36 @@
       "test": false,
       "seat": "2",
       "state": "GA",
-      "eevp": 90,
+      "eevp": 91,
       "type": "General Election Runoff",
       "office": "S",
       "results": [
         {
           "id": "12597",
-          "updated": 1609905605917,
+          "updated": 1609905666537,
           "precincts": 2656,
-          "reporting": 2160,
-          "reportingPercentage": 81.33,
-          "eevp": 90,
+          "reporting": 2207,
+          "reportingPercentage": 83.09,
+          "eevp": 91,
           "winners": [],
-          "total": 3962607,
+          "total": 3997040,
           "candidates": [
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 2018872,
+              "votes": 2041230,
               "incumbent": true,
-              "percentage": 50.95
+              "percentage": 51.07
             },
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 1943735,
-              "percentage": 49.05
+              "votes": 1955810,
+              "percentage": 48.93
             }
           ]
         }
