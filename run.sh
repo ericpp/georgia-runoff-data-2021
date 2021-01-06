@@ -49,6 +49,9 @@ while [ 1 ]; do
 
 	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/summary.json"
 	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/state-page/georgia.json"
+	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/general-model-overview-page/georgia/senate.json"
+	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/GA-S-S-2021-01-05.json"
+	download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/race-page/georgia/senate/0/special.json"
 
 	git add -A
 	updated=$(git diff --name-only --cached | xargs)
