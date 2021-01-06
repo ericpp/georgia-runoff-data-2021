@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609900821320,
+          "updated": 1609900881933,
           "precincts": 2656,
-          "reporting": 1406,
-          "reportingPercentage": 52.94,
+          "reporting": 1422,
+          "reportingPercentage": 53.54,
           "eevp": 79,
           "winners": [],
-          "total": 3301952,
+          "total": 3316916,
           "candidates": [
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 1663605,
+              "votes": 1673750,
               "incumbent": true,
-              "percentage": 50.38
+              "percentage": 50.46
             },
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 1638347,
-              "percentage": 49.62
+              "votes": 1643166,
+              "percentage": 49.54
             }
           ]
         }
@@ -56,20 +56,20 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609900821320,
+          "updated": 1609900881933,
           "precincts": 2656,
           "reporting": 1426,
           "reportingPercentage": 53.69,
           "eevp": 79,
           "winners": [],
-          "total": 3314799,
+          "total": 3316734,
           "candidates": [
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 1685292,
+              "votes": 1686217,
               "incumbent": true,
               "percentage": 50.84
             },
@@ -78,7 +78,7 @@
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 1629507,
+              "votes": 1630517,
               "percentage": 49.16
             }
           ]
