@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609892388380,
+          "updated": 1609892448970,
           "precincts": 2656,
-          "reporting": 11,
-          "reportingPercentage": 0.41,
+          "reporting": 12,
+          "reportingPercentage": 0.45,
           "eevp": 3,
           "winners": [],
-          "total": 131357,
+          "total": 135093,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 94163,
-              "percentage": 71.68
+              "votes": 95281,
+              "percentage": 70.53
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 37194,
+              "votes": 39812,
               "incumbent": true,
-              "percentage": 28.32
+              "percentage": 29.47
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609892388380,
+          "updated": 1609892448970,
           "precincts": 2656,
-          "reporting": 11,
-          "reportingPercentage": 0.41,
+          "reporting": 12,
+          "reportingPercentage": 0.45,
           "eevp": 3,
           "winners": [],
-          "total": 120743,
+          "total": 124476,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 85128,
-              "percentage": 70.5
+              "votes": 86245,
+              "percentage": 69.29
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 35615,
+              "votes": 38231,
               "incumbent": true,
-              "percentage": 29.5
+              "percentage": 30.71
             }
           ]
         }
