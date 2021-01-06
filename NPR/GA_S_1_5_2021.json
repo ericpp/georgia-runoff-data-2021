@@ -10,17 +10,17 @@
       "test": false,
       "seat": "2",
       "state": "GA",
-      "eevp": 95,
+      "eevp": 97,
       "type": "General Election Runoff",
       "office": "S",
       "results": [
         {
           "id": "12597",
-          "updated": 1609909112860,
+          "updated": 1609909895940,
           "precincts": 2656,
           "reporting": 2619,
           "reportingPercentage": 98.61,
-          "eevp": 95,
+          "eevp": 97,
           "winners": [],
           "total": 4376621,
           "candidates": [
@@ -50,17 +50,17 @@
       "date": "1/5/2021",
       "test": false,
       "state": "GA",
-      "eevp": 95,
+      "eevp": 97,
       "type": "General Election Runoff",
       "office": "S",
       "results": [
         {
           "id": "12599",
-          "updated": 1609909112860,
+          "updated": 1609909895940,
           "precincts": 2656,
           "reporting": 2619,
           "reportingPercentage": 98.61,
-          "eevp": 95,
+          "eevp": 97,
           "winners": [],
           "total": 4376527,
           "candidates": [
