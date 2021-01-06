@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609892448970,
+          "updated": 1609892509573,
           "precincts": 2656,
-          "reporting": 12,
-          "reportingPercentage": 0.45,
+          "reporting": 14,
+          "reportingPercentage": 0.53,
           "eevp": 3,
           "winners": [],
-          "total": 135093,
+          "total": 145939,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 95281,
-              "percentage": 70.53
+              "votes": 98701,
+              "percentage": 67.63
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 39812,
+              "votes": 47238,
               "incumbent": true,
-              "percentage": 29.47
+              "percentage": 32.37
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609892448970,
+          "updated": 1609892509573,
           "precincts": 2656,
-          "reporting": 12,
-          "reportingPercentage": 0.45,
+          "reporting": 14,
+          "reportingPercentage": 0.53,
           "eevp": 3,
           "winners": [],
-          "total": 124476,
+          "total": 142060,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 86245,
-              "percentage": 69.29
+              "votes": 91326,
+              "percentage": 64.29
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 38231,
+              "votes": 50734,
               "incumbent": true,
-              "percentage": 30.71
+              "percentage": 35.71
             }
           ]
         }
