@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609892267117,
+          "updated": 1609892327783,
           "precincts": 2656,
           "reporting": 9,
           "reportingPercentage": 0.34,
           "eevp": 1,
           "winners": [],
-          "total": 22507,
+          "total": 33108,
           "candidates": [
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 15124,
+              "votes": 17441,
               "incumbent": true,
-              "percentage": 67.2
+              "percentage": 52.68
             },
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 7383,
-              "percentage": 32.8
+              "votes": 15667,
+              "percentage": 47.32
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609892267117,
+          "updated": 1609892327783,
           "precincts": 2656,
-          "reporting": 9,
-          "reportingPercentage": 0.34,
+          "reporting": 10,
+          "reportingPercentage": 0.38,
           "eevp": 1,
           "winners": [],
-          "total": 22511,
+          "total": 22976,
           "candidates": [
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 15147,
+              "votes": 15415,
               "incumbent": true,
-              "percentage": 67.29
+              "percentage": 67.09
             },
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 7364,
-              "percentage": 32.71
+              "votes": 7561,
+              "percentage": 32.91
             }
           ]
         }
