@@ -3218,3 +3218,59 @@ https://results.enr.clarityelections.com//GA/107556/273926/json/Election_Day_Vot
 https://results.enr.clarityelections.com//GA/107556/273926/json/Absentee_by_Mail_Votes.json
 https://results.enr.clarityelections.com//GA/107556/273926/json/Advanced_Voting_Votes.json
 https://results.enr.clarityelections.com//GA/107556/273926/json/Provisional_Votes.json
+[master 8e62390] DDHQ/2021senate_ga LATimes/ga-full.json NBC/georgia-senate-runoff-results?format=json NYT/GA-S-S-2021-01-05.json NYT/georgia.json NYT/senate.json NYT/special.json NYT/summary.json Politico/sen.json Politico/senSpecial.json log.txt
+ Author: Automated Script <run@localhost>
+ 11 files changed, 61 insertions(+), 10 deletions(-)
+ rewrite DDHQ/2021senate_ga (94%)
+ rewrite LATimes/ga-full.json (89%)
+ rewrite NBC/georgia-senate-runoff-results?format=json (89%)
+ rewrite NYT/georgia.json (69%)
+ rewrite NYT/senate.json (73%)
+ rewrite NYT/special.json (75%)
+commit 8e6239036764f6d0a2e0c1940e803622954730fa
+Author: Automated Script <run@localhost>
+Date:   Wed Jan 6 01:06:33 2021 +0000
+
+    DDHQ/2021senate_ga LATimes/ga-full.json NBC/georgia-senate-runoff-results?format=json NYT/GA-S-S-2021-01-05.json NYT/georgia.json NYT/senate.json NYT/special.json NYT/summary.json Politico/sen.json Politico/senSpecial.json log.txt
+
+M	DDHQ/2021senate_ga
+M	LATimes/ga-full.json
+M	NBC/georgia-senate-runoff-results?format=json
+M	NYT/GA-S-S-2021-01-05.json
+M	NYT/georgia.json
+M	NYT/senate.json
+M	NYT/special.json
+M	NYT/summary.json
+M	Politico/sen.json
+M	Politico/senSpecial.json
+M	log.txt
+Pulling in results: 2021-01-06_01:06:51.861616388
+https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
+https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
+https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
+https://apps.npr.org/elections20-primaries/data/GA_S_1_5_2021.json
+https://www.nbcnews.com/politics/2020-special-elections/georgia-senate-runoff-results?format=json
+https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/results.tsv
+https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/county/GA-results.tsv
+https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/summary.json
+https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/state-page/georgia.json
+https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/general-model-overview-page/georgia/senate.json
+https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/GA-S-S-2021-01-05.json
+https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/race-page/georgia/senate/0/special.json
+https://embeds.ddhq.io/api/v2/2020senatecontrol
+https://embeds.ddhq.io/api/v2/2020general_results/ga_turnout_updated.csv
+https://embeds.ddhq.io/api/v2/2020general_results/2021senate_ga
+https://results.decisiondeskhq.com/api/v1/results/?limit=1
+https://politics-elex-results.data.api.cnn.io/results/view/2020-flipper-ticker-SG.json
+https://politics-elex-results.data.api.cnn.io/results/view/2020-balance-of-power-SGW.json
+https://datadesk-prod-origin.californiatimes.com/projects/elections-data/2021-01-05/ga-full.json
+https://elex.grahamdigital.com/200/data.json
+https://www.wsav.com/wp-json/election-hub/v1/widget/592031?_locale=user
+https://www.politico.com/2020-statewide-results/2021-01-05/13/sen.json
+https://www.politico.com/2020-statewide-results/2021-01-05/13/senSpecial.json
+https://www.politico.com/2020-statewide-results/2021-01-05/13/senSpecial-counties.json
+https://results.enr.clarityelections.com//GA/107556/273926/json/ALL.json
+https://results.enr.clarityelections.com//GA/107556/273926/json/Election_Day_Votes.json
+https://results.enr.clarityelections.com//GA/107556/273926/json/Absentee_by_Mail_Votes.json
+https://results.enr.clarityelections.com//GA/107556/273926/json/Advanced_Voting_Votes.json
+https://results.enr.clarityelections.com//GA/107556/273926/json/Provisional_Votes.json
