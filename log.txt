@@ -1,4 +1,4 @@
-Pulling in results: 2021-01-06_17:37:00.110893628
+Pulling in results: 2021-01-06_17:37:06.196216125
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
@@ -30,5 +30,5 @@ https://results.enr.clarityelections.com//GA/107556/274607/json/Advanced_Voting_
 https://results.enr.clarityelections.com//GA/107556/274607/json/Provisional_Votes.json
 NYT/georgia.json
 NYT/senate.json
-WJXT/data.json
+NYT/special.json
 log.txt
