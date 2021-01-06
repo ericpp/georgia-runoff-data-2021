@@ -16,7 +16,7 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609969957253,
+          "updated": 1609972486547,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -24,25 +24,25 @@
           "winners": [
             "69478"
           ],
-          "total": 4424426,
+          "total": 4426090,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 2244457,
+              "votes": 2245870,
               "winner": true,
-              "percentage": 50.73
+              "percentage": 50.74
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 2179969,
+              "votes": 2180220,
               "incumbent": true,
-              "percentage": 49.27
+              "percentage": 49.26
             }
           ]
         }
