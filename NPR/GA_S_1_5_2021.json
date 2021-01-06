@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609891843200,
+          "updated": 1609891903817,
           "precincts": 2656,
-          "reporting": 2,
-          "reportingPercentage": 0.08,
+          "reporting": 3,
+          "reportingPercentage": 0.11,
           "eevp": 1,
           "winners": [],
-          "total": 2624,
+          "total": 4112,
           "candidates": [
-            {
-              "first": "Raphael",
-              "last": "Warnock",
-              "party": "Dem",
-              "id": "69478",
-              "votes": 1424,
-              "percentage": 54.27
-            },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 1200,
+              "votes": 2276,
               "incumbent": true,
-              "percentage": 45.73
+              "percentage": 55.35
+            },
+            {
+              "first": "Raphael",
+              "last": "Warnock",
+              "party": "Dem",
+              "id": "69478",
+              "votes": 1836,
+              "percentage": 44.65
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609891782443,
+          "updated": 1609891903817,
           "precincts": 2656,
-          "reporting": 2,
-          "reportingPercentage": 0.08,
+          "reporting": 3,
+          "reportingPercentage": 0.11,
           "eevp": 1,
           "winners": [],
-          "total": 2625,
+          "total": 4115,
           "candidates": [
-            {
-              "first": "Jon",
-              "last": "Ossoff",
-              "party": "Dem",
-              "id": "65866",
-              "votes": 1419,
-              "percentage": 54.06
-            },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 1206,
+              "votes": 2283,
               "incumbent": true,
-              "percentage": 45.94
+              "percentage": 55.48
+            },
+            {
+              "first": "Jon",
+              "last": "Ossoff",
+              "party": "Dem",
+              "id": "65866",
+              "votes": 1832,
+              "percentage": 44.52
             }
           ]
         }
