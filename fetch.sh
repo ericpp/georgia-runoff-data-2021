@@ -42,7 +42,7 @@ download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/js
 
 # Use git to find differences and push to github
 git add -A
-git diff --cached --minimal
+git diff --cached --name-only
 git add log.txt
 
 updated=$(git diff --name-only --cached | xargs)
