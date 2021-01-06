@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609898941307,
+          "updated": 1609899062147,
           "precincts": 2656,
-          "reporting": 1050,
-          "reportingPercentage": 39.53,
+          "reporting": 1054,
+          "reportingPercentage": 39.68,
           "eevp": 65,
           "winners": [],
-          "total": 2725951,
+          "total": 2730153,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 1377655,
-              "percentage": 50.54
+              "votes": 1378132,
+              "percentage": 50.48
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 1348296,
+              "votes": 1352021,
               "incumbent": true,
-              "percentage": 49.46
+              "percentage": 49.52
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609898941307,
+          "updated": 1609899062147,
           "precincts": 2656,
           "reporting": 1053,
           "reportingPercentage": 39.65,
           "eevp": 65,
           "winners": [],
-          "total": 2725760,
+          "total": 2727922,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 1367626,
-              "percentage": 50.17
+              "votes": 1367961,
+              "percentage": 50.15
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 1358134,
+              "votes": 1359961,
               "incumbent": true,
-              "percentage": 49.83
+              "percentage": 49.85
             }
           ]
         }
