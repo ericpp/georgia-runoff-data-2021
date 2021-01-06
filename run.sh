@@ -5,7 +5,7 @@ getgaversion() {
 	exists=$(grep "$newversion" GA/versions)
 
 	if [ -z "$exists" ]; then
-		echo "$1" >> GA/versions
+		echo "$newversion" >> GA/versions
 	fi
 
 	echo "$newversion"
