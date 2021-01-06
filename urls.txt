@@ -28,3 +28,9 @@ LATimes https://datadesk-prod-origin.californiatimes.com/projects/elections-data
 WJXT https://elex.grahamdigital.com/200/data.json
 
 WSAV https://www.wsav.com/wp-json/election-hub/v1/widget/592031?_locale=user
+
+Politico https://www.politico.com/2020-statewide-results/2021-01-05/13/sen.json
+Politico https://www.politico.com/2020-statewide-results/2021-01-05/13/senSpecial.json
+Politico https://www.politico.com/2020-statewide-results/2021-01-05/13/senSpecial-counties.json
+
+
