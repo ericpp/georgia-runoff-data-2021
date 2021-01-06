@@ -58,7 +58,6 @@ while [ 1 ]; do
 	updated=$(git diff --name-only --cached | xargs)
 
 	git commit --author "Automated Script <run@localhost>" -m "$updated"
-	git show
 	git push origin master
 
 	echo "Sleeping..."
