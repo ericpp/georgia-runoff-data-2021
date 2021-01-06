@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609908448263,
+          "updated": 1609908508920,
           "precincts": 2656,
-          "reporting": 2495,
-          "reportingPercentage": 93.94,
+          "reporting": 2552,
+          "reportingPercentage": 96.08,
           "eevp": 95,
           "winners": [],
-          "total": 4349894,
+          "total": 4376621,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 2191203,
-              "percentage": 50.37
+              "votes": 2205826,
+              "percentage": 50.4
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 2158691,
+              "votes": 2170795,
               "incumbent": true,
-              "percentage": 49.63
+              "percentage": 49.6
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609908448263,
+          "updated": 1609908508920,
           "precincts": 2656,
-          "reporting": 2495,
-          "reportingPercentage": 93.94,
+          "reporting": 2552,
+          "reportingPercentage": 96.08,
           "eevp": 95,
           "winners": [],
-          "total": 4349778,
+          "total": 4376527,
           "candidates": [
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 2176675,
+              "votes": 2189198,
               "incumbent": true,
-              "percentage": 50.04
+              "percentage": 50.02
             },
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 2173103,
-              "percentage": 49.96
+              "votes": 2187329,
+              "percentage": 49.98
             }
           ]
         }
