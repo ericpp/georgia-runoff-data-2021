@@ -1,5 +1,5 @@
 raceKey	candidateID	winner	voteCount	electWon	precinctsReportingPct	eevp	numRunoff
-SGAs	22251		534		0	1	
-SGAs	22243		189		0	1	
-SGA	21798		536		0	1	
-SGA	19900		187		0	1	
+SGAs	22251		634		0.04	1	
+SGAs	22243		411		0.04	1	
+SGA	21798		627		0.04	1	
+SGA	19900		417		0.04	1	
