@@ -21,6 +21,7 @@ download() {
 
 	filename=$(basename "$url")
 
+	echo "$url"
 	curl --compressed --connect-timeout 10 -m 10 -s -o "./$prefix/$filename" "$url"
 }
 
