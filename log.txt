@@ -1,4 +1,4 @@
-Pulling in results: 2021-01-06_05:38:34.328879650
+Pulling in results: 2021-01-06_05:38:40.297989845
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
