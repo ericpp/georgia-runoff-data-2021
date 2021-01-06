@@ -16,20 +16,20 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609899547540,
+          "updated": 1609899608293,
           "precincts": 2656,
-          "reporting": 1162,
-          "reportingPercentage": 43.75,
+          "reporting": 1178,
+          "reportingPercentage": 44.35,
           "eevp": 68,
           "winners": [],
-          "total": 2845112,
+          "total": 2856323,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 1426541,
+              "votes": 1432067,
               "percentage": 50.14
             },
             {
@@ -37,7 +37,7 @@
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 1418571,
+              "votes": 1424256,
               "incumbent": true,
               "percentage": 49.86
             }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609899547540,
+          "updated": 1609899608293,
           "precincts": 2656,
-          "reporting": 1165,
-          "reportingPercentage": 43.86,
+          "reporting": 1187,
+          "reportingPercentage": 44.69,
           "eevp": 68,
           "winners": [],
-          "total": 2844960,
+          "total": 2859244,
           "candidates": [
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 1429057,
+              "votes": 1437085,
               "incumbent": true,
-              "percentage": 50.23
+              "percentage": 50.26
             },
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 1415903,
-              "percentage": 49.77
+              "votes": 1422159,
+              "percentage": 49.74
             }
           ]
         }
