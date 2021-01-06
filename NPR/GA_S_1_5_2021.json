@@ -16,10 +16,10 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609904395777,
+          "updated": 1609904456403,
           "precincts": 2656,
-          "reporting": 2082,
-          "reportingPercentage": 78.39,
+          "reporting": 2080,
+          "reportingPercentage": 78.31,
           "eevp": 87,
           "winners": [],
           "total": 3846359,
@@ -56,10 +56,10 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609904395777,
+          "updated": 1609904456403,
           "precincts": 2656,
-          "reporting": 2082,
-          "reportingPercentage": 78.39,
+          "reporting": 2080,
+          "reportingPercentage": 78.31,
           "eevp": 87,
           "winners": [],
           "total": 3847132,
