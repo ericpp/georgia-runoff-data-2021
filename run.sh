@@ -57,7 +57,7 @@ while [ 1 ]; do
 	git add -A
 	updated=$(git diff --name-only --cached | xargs)
 
-	git commit --author "Automated Script <run@localhost>" -m "Updated: $updated"
+	git commit --author "Automated Script <run@localhost>" -m "$updated"
 	git push origin master
 
 	echo "Sleeping..."
