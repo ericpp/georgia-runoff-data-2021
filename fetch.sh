@@ -1,9 +1,9 @@
 #!/bin/sh
 
 getgaversion() {
-	newversion=$(curl -s https://results.enr.clarityelections.com//GA/107556/current_ver.txt)
-	echo "$newversion" > GA/versions
-	echo "$newversion"
+	version=$(curl -s https://results.enr.clarityelections.com//GA/107556/current_ver.txt)
+	echo "$version" > GA/versions
+	echo "$version"
 }
 
 download() {
