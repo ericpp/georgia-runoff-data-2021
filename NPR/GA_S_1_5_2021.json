@@ -10,36 +10,36 @@
       "test": false,
       "seat": "2",
       "state": "GA",
-      "eevp": 22,
+      "eevp": 23,
       "type": "General Election Runoff",
       "office": "S",
       "results": [
         {
           "id": "12597",
-          "updated": 1609894816007,
+          "updated": 1609894876613,
           "precincts": 2656,
-          "reporting": 119,
-          "reportingPercentage": 4.48,
-          "eevp": 22,
+          "reporting": 123,
+          "reportingPercentage": 4.63,
+          "eevp": 23,
           "winners": [],
-          "total": 918990,
+          "total": 944304,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 499160,
-              "percentage": 54.32
+              "votes": 504169,
+              "percentage": 53.39
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 419830,
+              "votes": 440135,
               "incumbent": true,
-              "percentage": 45.68
+              "percentage": 46.61
             }
           ]
         }
@@ -50,36 +50,36 @@
       "date": "1/5/2021",
       "test": false,
       "state": "GA",
-      "eevp": 22,
+      "eevp": 23,
       "type": "General Election Runoff",
       "office": "S",
       "results": [
         {
           "id": "12599",
-          "updated": 1609894816007,
+          "updated": 1609894876613,
           "precincts": 2656,
-          "reporting": 115,
-          "reportingPercentage": 4.33,
-          "eevp": 22,
+          "reporting": 124,
+          "reportingPercentage": 4.67,
+          "eevp": 23,
           "winners": [],
-          "total": 918014,
+          "total": 945945,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 496201,
-              "percentage": 54.05
+              "votes": 501823,
+              "percentage": 53.05
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 421813,
+              "votes": 444122,
               "incumbent": true,
-              "percentage": 45.95
+              "percentage": 46.95
             }
           ]
         }
