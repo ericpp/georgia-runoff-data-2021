@@ -59,12 +59,14 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609967786773,
+          "updated": 1609967817287,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
           "eevp": 98,
-          "winners": [],
+          "winners": [
+            "65866"
+          ],
           "total": 4419407,
           "candidates": [
             {
@@ -73,6 +75,7 @@
               "party": "Dem",
               "id": "65866",
               "votes": 2222133,
+              "winner": true,
               "percentage": 50.28
             },
             {
