@@ -1,4 +1,4 @@
-Pulling in results: 2021-01-06_02:44:10.169069692
+Pulling in results: 2021-01-06_02:44:17.442798763
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
@@ -28,8 +28,7 @@ https://results.enr.clarityelections.com//GA/107556/274437/json/Election_Day_Vot
 https://results.enr.clarityelections.com//GA/107556/274437/json/Absentee_by_Mail_Votes.json
 https://results.enr.clarityelections.com//GA/107556/274437/json/Advanced_Voting_Votes.json
 https://results.enr.clarityelections.com//GA/107556/274437/json/Provisional_Votes.json
-AP/GA.json
-CNN/2020-flipper-ticker-SG.json
-NYT/GA-S-S-2021-01-05.json
-NYT/summary.json
+NYT/georgia.json
+NYT/senate.json
+NYT/special.json
 log.txt
