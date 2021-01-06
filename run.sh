@@ -57,5 +57,5 @@ while [ 1 ]; do
 	git push origin master
 
 	echo "Sleeping..."
-	sleep 30
+	sleep 15
 done
