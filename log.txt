@@ -1,4 +1,4 @@
-Pulling in results: 2021-01-06_13:09:08.066108905
+Pulling in results: 2021-01-06_13:09:14.168030171
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
@@ -28,4 +28,5 @@ https://results.enr.clarityelections.com//GA/107556/274588/json/Election_Day_Vot
 https://results.enr.clarityelections.com//GA/107556/274588/json/Absentee_by_Mail_Votes.json
 https://results.enr.clarityelections.com//GA/107556/274588/json/Advanced_Voting_Votes.json
 https://results.enr.clarityelections.com//GA/107556/274588/json/Provisional_Votes.json
+CNN/2020-balance-of-power-SGW.json
 log.txt
