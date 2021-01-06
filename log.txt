@@ -1,4 +1,4 @@
-Pulling in results: 2021-01-06_04:02:37.025630560
+Pulling in results: 2021-01-06_04:02:43.265750228
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
@@ -29,7 +29,7 @@ https://results.enr.clarityelections.com//GA/107556/274532/json/Absentee_by_Mail
 https://results.enr.clarityelections.com//GA/107556/274532/json/Advanced_Voting_Votes.json
 https://results.enr.clarityelections.com//GA/107556/274532/json/Provisional_Votes.json
 NBC/georgia-senate-runoff-results?format=json
-NYT/georgia.json
-NYT/special.json
-Politico/senSpecial-counties.json
+NYT/senate.json
+NYT/summary.json
+WSAV/592031?_locale=user
 log.txt
