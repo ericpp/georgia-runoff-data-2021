@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609891600683,
+          "updated": 1609891721687,
           "precincts": 2656,
-          "reporting": 0,
-          "reportingPercentage": 0,
+          "reporting": 1,
+          "reportingPercentage": 0.04,
           "eevp": 1,
           "winners": [],
-          "total": 723,
+          "total": 1045,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 534,
-              "percentage": 73.86
+              "votes": 634,
+              "percentage": 60.67
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 189,
+              "votes": 411,
               "incumbent": true,
-              "percentage": 26.14
+              "percentage": 39.33
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609891600683,
+          "updated": 1609891721687,
           "precincts": 2656,
-          "reporting": 0,
-          "reportingPercentage": 0,
+          "reporting": 1,
+          "reportingPercentage": 0.04,
           "eevp": 1,
           "winners": [],
-          "total": 723,
+          "total": 1044,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 536,
-              "percentage": 74.14
+              "votes": 627,
+              "percentage": 60.06
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 187,
+              "votes": 417,
               "incumbent": true,
-              "percentage": 25.86
+              "percentage": 39.94
             }
           ]
         }
