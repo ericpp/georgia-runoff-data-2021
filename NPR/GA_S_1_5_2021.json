@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609899062147,
+          "updated": 1609899122910,
           "precincts": 2656,
           "reporting": 1054,
           "reportingPercentage": 39.68,
           "eevp": 65,
           "winners": [],
-          "total": 2730153,
+          "total": 2741296,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 1378132,
-              "percentage": 50.48
+              "votes": 1383452,
+              "percentage": 50.47
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 1352021,
+              "votes": 1357844,
               "incumbent": true,
-              "percentage": 49.52
+              "percentage": 49.53
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609899062147,
+          "updated": 1609899122910,
           "precincts": 2656,
-          "reporting": 1053,
-          "reportingPercentage": 39.65,
+          "reporting": 1057,
+          "reportingPercentage": 39.8,
           "eevp": 65,
           "winners": [],
-          "total": 2727922,
+          "total": 2741124,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 1367961,
-              "percentage": 50.15
+              "votes": 1373344,
+              "percentage": 50.1
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 1359961,
+              "votes": 1367780,
               "incumbent": true,
-              "percentage": 49.85
+              "percentage": 49.9
             }
           ]
         }
