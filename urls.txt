@@ -18,3 +18,6 @@ DDHQ https://embeds.ddhq.io/api/v2/2020senatecontrol
 DDHQ https://embeds.ddhq.io/api/v2/2020general_results/ga_turnout_updated.csv
 DDHQ https://embeds.ddhq.io/api/v2/2020general_results/2021senate_ga
 DDHQ https://results.decisiondeskhq.com/api/v1/results/?limit=1
+
+CNN https://politics-elex-results.data.api.cnn.io/results/view/2020-flipper-ticker-SG.json
+CNN https://politics-elex-results.data.api.cnn.io/results/view/2020-balance-of-power-SGW.json
