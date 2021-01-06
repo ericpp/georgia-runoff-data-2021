@@ -24,3 +24,5 @@ CNN https://politics-elex-results.data.api.cnn.io/results/view/2020-flipper-tick
 CNN https://politics-elex-results.data.api.cnn.io/results/view/2020-balance-of-power-SGW.json
 
 LATimes https://datadesk-prod-origin.californiatimes.com/projects/elections-data/2021-01-05/ga-full.json
+
+WJXT https://elex.grahamdigital.com/200/data.json
