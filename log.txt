@@ -1,4 +1,4 @@
-Pulling in results: 2021-01-06_02:14:54.076678540
+Pulling in results: 2021-01-06_02:15:00.582790615
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
@@ -32,4 +32,6 @@ NBC/georgia-senate-runoff-results?format=json
 NYT/georgia.json
 NYT/senate.json
 NYT/special.json
+Politico/senSpecial-counties.json
+WJXT/data.json
 log.txt
