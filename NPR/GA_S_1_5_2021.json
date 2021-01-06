@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609901246013,
+          "updated": 1609901306620,
           "precincts": 2656,
-          "reporting": 1490,
-          "reportingPercentage": 56.1,
+          "reporting": 1545,
+          "reportingPercentage": 58.17,
           "eevp": 77,
           "winners": [],
-          "total": 3368432,
+          "total": 3406038,
           "candidates": [
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 1702582,
+              "votes": 1723284,
               "incumbent": true,
-              "percentage": 50.55
+              "percentage": 50.59
             },
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 1665850,
-              "percentage": 49.45
+              "votes": 1682754,
+              "percentage": 49.41
             }
           ]
         }
@@ -56,20 +56,20 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609901246013,
+          "updated": 1609901306620,
           "precincts": 2656,
-          "reporting": 1510,
-          "reportingPercentage": 56.85,
+          "reporting": 1549,
+          "reportingPercentage": 58.32,
           "eevp": 77,
           "winners": [],
-          "total": 3382347,
+          "total": 3405847,
           "candidates": [
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 1723902,
+              "votes": 1736002,
               "incumbent": true,
               "percentage": 50.97
             },
@@ -78,7 +78,7 @@
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 1658445,
+              "votes": 1669845,
               "percentage": 49.03
             }
           ]
