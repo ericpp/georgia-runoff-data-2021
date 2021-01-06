@@ -16,30 +16,30 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609892206473,
+          "updated": 1609892267117,
           "precincts": 2656,
-          "reporting": 8,
-          "reportingPercentage": 0.3,
+          "reporting": 9,
+          "reportingPercentage": 0.34,
           "eevp": 1,
           "winners": [],
-          "total": 18453,
+          "total": 22507,
           "candidates": [
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 12886,
+              "votes": 15124,
               "incumbent": true,
-              "percentage": 69.83
+              "percentage": 67.2
             },
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 5567,
-              "percentage": 30.17
+              "votes": 7383,
+              "percentage": 32.8
             }
           ]
         }
@@ -56,30 +56,30 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609892206473,
+          "updated": 1609892267117,
           "precincts": 2656,
           "reporting": 9,
           "reportingPercentage": 0.34,
           "eevp": 1,
           "winners": [],
-          "total": 19416,
+          "total": 22511,
           "candidates": [
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 13366,
+              "votes": 15147,
               "incumbent": true,
-              "percentage": 68.84
+              "percentage": 67.29
             },
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 6050,
-              "percentage": 31.16
+              "votes": 7364,
+              "percentage": 32.71
             }
           ]
         }
