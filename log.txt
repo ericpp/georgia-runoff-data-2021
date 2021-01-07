@@ -1,9 +1,8 @@
-Pulling in results: 2021-01-07_08:03:00.434156962
+Pulling in results: 2021-01-07_08:03:13.557697342
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/GA.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/us-senate/summary.json
 https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.json
 https://apps.npr.org/elections20-primaries/data/GA_S_1_5_2021.json
-https://www.nbcnews.com/politics/2020-special-elections/georgia-senate-runoff-results?format=json
 https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/results.tsv
 https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/county/GA-results.tsv
 https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/summary.json
@@ -28,7 +27,5 @@ https://results.enr.clarityelections.com//GA/107556/274635/json/Election_Day_Vot
 https://results.enr.clarityelections.com//GA/107556/274635/json/Absentee_by_Mail_Votes.json
 https://results.enr.clarityelections.com//GA/107556/274635/json/Advanced_Voting_Votes.json
 https://results.enr.clarityelections.com//GA/107556/274635/json/Provisional_Votes.json
-#NBC/georgia-senate-runoff-results?format=json
-WJXT/data.json
 log.txt
 urls.txt
