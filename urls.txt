@@ -23,8 +23,6 @@ CNN https://politics-elex-results.data.api.cnn.io/results/view/2020-balance-of-p
 
 LATimes https://datadesk-prod-origin.californiatimes.com/projects/elections-data/2021-01-05/ga-full.json
 
-WJXT https://elex.grahamdigital.com/200/data.json
-
 WSAV https://www.wsav.com/wp-json/election-hub/v1/widget/592031?_locale=user
 
 Politico https://www.politico.com/2020-statewide-results/2021-01-05/13/sen.json
