@@ -4,7 +4,7 @@ AP https://interactives.ap.org/elections/live-data/production/2021-01-05/bop.jso
 
 NPR https://apps.npr.org/elections20-primaries/data/GA_S_1_5_2021.json
 
-NBC https://www.nbcnews.com/politics/2020-special-elections/georgia-senate-runoff-results?format=json
+#NBC https://www.nbcnews.com/politics/2020-special-elections/georgia-senate-runoff-results?format=json
 
 Bloomberg https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/results.tsv
 Bloomberg https://www.bloomberg.com/bbg-gfx/us-election-results/2021-01-05/county/GA-results.tsv
