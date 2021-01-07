@@ -59,7 +59,7 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609977967237,
+          "updated": 1609979593760,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -67,25 +67,25 @@
           "winners": [
             "65866"
           ],
-          "total": 4435081,
+          "total": 4442263,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 2233982,
+              "votes": 2238939,
               "winner": true,
-              "percentage": 50.37
+              "percentage": 50.4
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 2201099,
+              "votes": 2203324,
               "incumbent": true,
-              "percentage": 49.63
+              "percentage": 49.6
             }
           ]
         }
