@@ -16,7 +16,7 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1609985134547,
+          "updated": 1610031371897,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -24,25 +24,25 @@
           "winners": [
             "69478"
           ],
-          "total": 4442312,
+          "total": 4444834,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 2257858,
+              "votes": 2259769,
               "winner": true,
-              "percentage": 50.83
+              "percentage": 50.84
             },
             {
               "first": "Kelly",
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 2184454,
+              "votes": 2185065,
               "incumbent": true,
-              "percentage": 49.17
+              "percentage": 49.16
             }
           ]
         }
@@ -59,7 +59,7 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1609985134547,
+          "updated": 1610031372470,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -67,25 +67,25 @@
           "winners": [
             "65866"
           ],
-          "total": 4442263,
+          "total": 4444782,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 2238939,
+              "votes": 2240822,
               "winner": true,
-              "percentage": 50.4
+              "percentage": 50.41
             },
             {
               "first": "David",
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 2203324,
+              "votes": 2203960,
               "incumbent": true,
-              "percentage": 49.6
+              "percentage": 49.59
             }
           ]
         }
