@@ -16,7 +16,7 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1610142482083,
+          "updated": 1610142542760,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -24,14 +24,14 @@
           "winners": [
             "69478"
           ],
-          "total": 4460305,
+          "total": 4460487,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 2271679,
+              "votes": 2271754,
               "winner": true,
               "percentage": 50.93
             },
@@ -40,7 +40,7 @@
               "last": "Loeffler",
               "party": "GOP",
               "id": "67977",
-              "votes": 2188626,
+              "votes": 2188733,
               "incumbent": true,
               "percentage": 49.07
             }
@@ -59,7 +59,7 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1610142482083,
+          "updated": 1610142542760,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -67,14 +67,14 @@
           "winners": [
             "65866"
           ],
-          "total": 4460248,
+          "total": 4460429,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 2252606,
+              "votes": 2252679,
               "winner": true,
               "percentage": 50.5
             },
@@ -83,7 +83,7 @@
               "last": "Perdue",
               "party": "GOP",
               "id": "63347",
-              "votes": 2207642,
+              "votes": 2207750,
               "incumbent": true,
               "percentage": 49.5
             }
