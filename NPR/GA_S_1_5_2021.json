@@ -59,7 +59,7 @@
       "results": [
         {
           "id": "12599",
-          "updated": 1610117427133,
+          "updated": 1610118932333,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -67,14 +67,14 @@
           "winners": [
             "65866"
           ],
-          "total": 4457587,
+          "total": 4457589,
           "candidates": [
             {
               "first": "Jon",
               "last": "Ossoff",
               "party": "Dem",
               "id": "65866",
-              "votes": 2250415,
+              "votes": 2250417,
               "winner": true,
               "percentage": 50.49
             },
