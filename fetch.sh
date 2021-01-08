@@ -40,6 +40,10 @@ download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/js
 download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Advanced_Voting_Votes.json"
 download "GA" "https://results.enr.clarityelections.com//GA/107556/$gaversion/json/Provisional_Votes.json"
 
+# NYT Precinct URLS
+
+sh ./precinct-urls.sh
+
 # Use git to find differences and push to github
 git add -A
 git diff --cached --name-only
