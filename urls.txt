@@ -12,6 +12,9 @@ NYT https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/state-pag
 NYT https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/general-model-overview-page/georgia/senate.json
 NYT https://static01.nyt.com/elections-assets/2020/data/liveModel/2021-01-05/senate/GA-S-S-2021-01-05.json
 NYT https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/race-page/georgia/senate/0/special.json
+NYT https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateRunoff-latest.json
+NYT https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateSpecialRunoff-latest.json
+
 
 DDHQ https://embeds.ddhq.io/api/v2/2020senatecontrol
 DDHQ https://embeds.ddhq.io/api/v2/2020general_results/ga_turnout_updated.csv
