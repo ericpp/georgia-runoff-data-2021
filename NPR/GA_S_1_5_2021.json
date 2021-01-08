@@ -16,7 +16,7 @@
       "results": [
         {
           "id": "12597",
-          "updated": 1610117426533,
+          "updated": 1610118992920,
           "precincts": 2656,
           "reporting": 2656,
           "reportingPercentage": 100,
@@ -24,14 +24,14 @@
           "winners": [
             "69478"
           ],
-          "total": 4457643,
+          "total": 4457645,
           "candidates": [
             {
               "first": "Raphael",
               "last": "Warnock",
               "party": "Dem",
               "id": "69478",
-              "votes": 2269450,
+              "votes": 2269452,
               "winner": true,
               "percentage": 50.91
             },
