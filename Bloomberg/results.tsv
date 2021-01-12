@@ -1,1 +1,5 @@
-connection failure
+raceKey	candidateID	winner	voteCount	electWon	precinctsReportingPct	eevp	numRunoff
+SGAs	22251	X	2287787		100	99	
+SGAs	22243		2194480		100	99	
+SGA	21798	X	2268612		100	99	
+SGA	19900		2213604		100	99	
