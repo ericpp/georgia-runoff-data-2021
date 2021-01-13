@@ -1,5 +1,5 @@
 {
-  "meta": {"state":"ga","race_id":"GA-G-S-2021-01-05","boe_id":"n/a","total_votes":4483227,"precinct_items_total":10624,"precinct_items_reporting":10624,"geographies_total":2654,"geographies_reporting":2654},
+  "meta": {"state":"ga","race_id":"GA-G-S-2021-01-05","boe_id":"n/a","total_votes":4483228,"precinct_items_total":10624,"precinct_items_reporting":10624,"geographies_total":2654,"geographies_reporting":2654},
   "precincts": [
     {"precinct_id":"1B","locality_name":"Appling","is_reporting":true,"is_complete":null,"results":{"perdued":85,"ossoffj":38},"vote_type":"absentee","geo_id":"13001-1B","precinct_name":"","locality_fips":"13001","is_geographic":true,"votes":123},
     {"precinct_id":"1B","locality_name":"Appling","is_reporting":true,"is_complete":null,"results":{"perdued":349,"ossoffj":34},"vote_type":"early","geo_id":"13001-1B","precinct_name":"","locality_fips":"13001","is_geographic":true,"votes":383},
@@ -9653,7 +9653,7 @@
     {"precinct_id":"Valley","locality_name":"Talbot","is_reporting":true,"is_complete":null,"results":{"perdued":112,"ossoffj":77},"vote_type":"early","geo_id":"13263-2","precinct_name":"","locality_fips":"13263","is_geographic":true,"votes":189},
     {"precinct_id":"Valley","locality_name":"Talbot","is_reporting":true,"is_complete":null,"results":{"perdued":99,"ossoffj":81},"vote_type":"electionday","geo_id":"13263-2","precinct_name":"","locality_fips":"13263","is_geographic":true,"votes":180},
     {"precinct_id":"Valley","locality_name":"Talbot","is_reporting":true,"is_complete":null,"results":{"perdued":0,"ossoffj":0},"vote_type":"provisional","geo_id":"13263-2","precinct_name":"","locality_fips":"13263","is_geographic":true,"votes":0},
-    {"precinct_id":"Crawfordville","locality_name":"Taliaferro","is_reporting":true,"is_complete":null,"results":{"perdued":42,"ossoffj":167},"vote_type":"absentee","geo_id":"13265-CRAWFORDVILLE (601)","precinct_name":"","locality_fips":"13265","is_geographic":true,"votes":209},
+    {"precinct_id":"Crawfordville","locality_name":"Taliaferro","is_reporting":true,"is_complete":null,"results":{"perdued":42,"ossoffj":168},"vote_type":"absentee","geo_id":"13265-CRAWFORDVILLE (601)","precinct_name":"","locality_fips":"13265","is_geographic":true,"votes":210},
     {"precinct_id":"Crawfordville","locality_name":"Taliaferro","is_reporting":true,"is_complete":null,"results":{"perdued":132,"ossoffj":152},"vote_type":"early","geo_id":"13265-CRAWFORDVILLE (601)","precinct_name":"","locality_fips":"13265","is_geographic":true,"votes":284},
     {"precinct_id":"Crawfordville","locality_name":"Taliaferro","is_reporting":true,"is_complete":null,"results":{"perdued":93,"ossoffj":88},"vote_type":"electionday","geo_id":"13265-CRAWFORDVILLE (601)","precinct_name":"","locality_fips":"13265","is_geographic":true,"votes":181},
     {"precinct_id":"Crawfordville","locality_name":"Taliaferro","is_reporting":true,"is_complete":null,"results":{"perdued":0,"ossoffj":0},"vote_type":"provisional","geo_id":"13265-CRAWFORDVILLE (601)","precinct_name":"","locality_fips":"13265","is_geographic":true,"votes":0},
