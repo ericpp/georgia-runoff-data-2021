@@ -175,3 +175,4 @@ https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GAS
 https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateSpecialRunoff-2021-01-13T17:44:55.380Z.json
 https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateRunoff-2021-01-13T17:45:12.151Z.json
 https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateSpecialRunoff-2021-01-13T19:48:42.117Z.json
+https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateRunoff-2021-01-13T19:49:00.202Z.json
