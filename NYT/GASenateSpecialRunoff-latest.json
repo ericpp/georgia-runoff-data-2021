@@ -1,5 +1,5 @@
 {
-  "meta": {"state":"ga","race_id":"GA-S-S-2021-01-05","boe_id":"n/a","total_votes":4483361,"precinct_items_total":10624,"precinct_items_reporting":10624,"geographies_total":2654,"geographies_reporting":2654},
+  "meta": {"state":"ga","race_id":"GA-S-S-2021-01-05","boe_id":"n/a","total_votes":4483367,"precinct_items_total":10624,"precinct_items_reporting":10624,"geographies_total":2654,"geographies_reporting":2654},
   "precincts": [
     {"precinct_id":"1B","locality_name":"Appling","is_reporting":true,"is_complete":null,"results":{"loefflerk":85,"warnockr":38},"vote_type":"absentee","geo_id":"13001-1B","precinct_name":"","locality_fips":"13001","is_geographic":true,"votes":123},
     {"precinct_id":"1B","locality_name":"Appling","is_reporting":true,"is_complete":null,"results":{"loefflerk":352,"warnockr":31},"vote_type":"early","geo_id":"13001-1B","precinct_name":"","locality_fips":"13001","is_geographic":true,"votes":383},
@@ -1289,7 +1289,7 @@
     {"precinct_id":"8-16C Royal Cinemas and IMAX","locality_name":"Chatham","is_reporting":true,"is_complete":null,"results":{"loefflerk":331,"warnockr":374},"vote_type":"early","geo_id":"13051-8-16C","precinct_name":"","locality_fips":"13051","is_geographic":true,"votes":705},
     {"precinct_id":"8-16C Royal Cinemas and IMAX","locality_name":"Chatham","is_reporting":true,"is_complete":null,"results":{"loefflerk":303,"warnockr":208},"vote_type":"electionday","geo_id":"13051-8-16C","precinct_name":"","locality_fips":"13051","is_geographic":true,"votes":511},
     {"precinct_id":"8-16C Royal Cinemas and IMAX","locality_name":"Chatham","is_reporting":true,"is_complete":null,"results":{"loefflerk":0,"warnockr":1},"vote_type":"provisional","geo_id":"13051-8-16C","precinct_name":"","locality_fips":"13051","is_geographic":true,"votes":1},
-    {"precinct_id":"Activity Center","locality_name":"Chattahoochee","is_reporting":true,"is_complete":null,"results":{"loefflerk":66,"warnockr":135},"vote_type":"absentee","geo_id":"13053-1","precinct_name":"","locality_fips":"13053","is_geographic":true,"votes":201},
+    {"precinct_id":"Activity Center","locality_name":"Chattahoochee","is_reporting":true,"is_complete":null,"results":{"loefflerk":70,"warnockr":137},"vote_type":"absentee","geo_id":"13053-1","precinct_name":"","locality_fips":"13053","is_geographic":true,"votes":207},
     {"precinct_id":"Activity Center","locality_name":"Chattahoochee","is_reporting":true,"is_complete":null,"results":{"loefflerk":319,"warnockr":307},"vote_type":"early","geo_id":"13053-1","precinct_name":"","locality_fips":"13053","is_geographic":true,"votes":626},
     {"precinct_id":"Activity Center","locality_name":"Chattahoochee","is_reporting":true,"is_complete":null,"results":{"loefflerk":331,"warnockr":156},"vote_type":"electionday","geo_id":"13053-1","precinct_name":"","locality_fips":"13053","is_geographic":true,"votes":487},
     {"precinct_id":"Activity Center","locality_name":"Chattahoochee","is_reporting":true,"is_complete":null,"results":{"loefflerk":0,"warnockr":1},"vote_type":"provisional","geo_id":"13053-1","precinct_name":"","locality_fips":"13053","is_geographic":true,"votes":1},
