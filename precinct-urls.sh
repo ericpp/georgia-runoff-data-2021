@@ -11,3 +11,6 @@ for url in $urls; do
 		echo "$url" >> NYT/precinct-urls.txt
 	fi
 done
+
+cd NYT/precincts/
+wget -nc -i ../precinct-urls.txt
