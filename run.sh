@@ -5,5 +5,5 @@ while [ 1 ]; do
 	./fetch.sh
 
 	#echo "Sleeping..."
-	#sleep 5
+	sleep 600
 done
